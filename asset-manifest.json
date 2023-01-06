@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/car-rental-react/static/css/main.8b67a8cb.css",
+    "main.js": "/car-rental-react/static/js/main.91e7b14c.js",
+    "static/js/787.5c098355.chunk.js": "/car-rental-react/static/js/787.5c098355.chunk.js",
+    "static/media/globe.svg": "/car-rental-react/static/media/globe.d257e0a9e7bb55a543610ed278b2b36b.svg",
+    "static/media/speedometer.svg": "/car-rental-react/static/media/speedometer.6edd6c7ac526e734c266f18f47f767e5.svg",
+    "static/media/ribbon.svg": "/car-rental-react/static/media/ribbon.434ed91a7041100195c0a21f41eaf6f1.svg",
+    "index.html": "/car-rental-react/index.html",
+    "static/media/cash.svg": "/car-rental-react/static/media/cash.19432587a7b5014c9b7a306752becf32.svg",
+    "static/media/help.svg": "/car-rental-react/static/media/help.055fd5d1acd06f4d8b71388001ad4831.svg",
+    "static/media/person.svg": "/car-rental-react/static/media/person.0f823d8b3882399772a6bf23f8fb1963.svg",
+    "static/media/phone.svg": "/car-rental-react/static/media/phone.7a183aa762c90a5ac95582e057ba7184.svg",
+    "static/media/battery.svg": "/car-rental-react/static/media/battery.0fc7c555cc84d55281a44353d0d95426.svg",
+    "static/media/leaf.svg": "/car-rental-react/static/media/leaf.22c76be81bf12fca02f05e4ab62abd86.svg",
+    "static/media/shield.svg": "/car-rental-react/static/media/shield.23fe1cefe673e8e855cd4fa305066e55.svg",
+    "static/media/bag.svg": "/car-rental-react/static/media/bag.8ba58bc65926b242c9e4bbb9a7bba126.svg",
+    "static/media/menu.svg": "/car-rental-react/static/media/menu.79df86184e1b44d432222b8851448df6.svg",
+    "static/media/close.svg": "/car-rental-react/static/media/close.260b0a7e999ecd5a1faca038072d7257.svg",
+    "static/media/chevron-down.svg": "/car-rental-react/static/media/chevron-down.e049ef33739d9134e55bea26e9749446.svg",
+    "main.8b67a8cb.css.map": "/car-rental-react/static/css/main.8b67a8cb.css.map",
+    "main.91e7b14c.js.map": "/car-rental-react/static/js/main.91e7b14c.js.map",
+    "787.5c098355.chunk.js.map": "/car-rental-react/static/js/787.5c098355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b67a8cb.css",
+    "static/js/main.91e7b14c.js"
+  ]
+}
