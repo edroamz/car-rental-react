@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/car-rental-react/static/css/main.8b67a8cb.css",
-    "main.js": "/car-rental-react/static/js/main.8b7f2d99.js",
+    "main.js": "/car-rental-react/static/js/main.8e462850.js",
     "static/js/787.5c098355.chunk.js": "/car-rental-react/static/js/787.5c098355.chunk.js",
     "static/media/globe.svg": "/car-rental-react/static/media/globe.d257e0a9e7bb55a543610ed278b2b36b.svg",
     "static/media/speedometer.svg": "/car-rental-react/static/media/speedometer.6edd6c7ac526e734c266f18f47f767e5.svg",
@@ -19,11 +19,11 @@
     "static/media/close.svg": "/car-rental-react/static/media/close.260b0a7e999ecd5a1faca038072d7257.svg",
     "static/media/chevron-down.svg": "/car-rental-react/static/media/chevron-down.e049ef33739d9134e55bea26e9749446.svg",
     "main.8b67a8cb.css.map": "/car-rental-react/static/css/main.8b67a8cb.css.map",
-    "main.8b7f2d99.js.map": "/car-rental-react/static/js/main.8b7f2d99.js.map",
+    "main.8e462850.js.map": "/car-rental-react/static/js/main.8e462850.js.map",
     "787.5c098355.chunk.js.map": "/car-rental-react/static/js/787.5c098355.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b67a8cb.css",
-    "static/js/main.8b7f2d99.js"
+    "static/js/main.8e462850.js"
   ]
 }
